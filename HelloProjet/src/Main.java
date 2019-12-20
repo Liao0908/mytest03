@@ -9,5 +9,6 @@ public class Main {
         System.out.println("火狐");
         System.out.println("888888");
         System.out.println("用户A");
+        System.out.println("哈哈哈哈");
     }
 }
